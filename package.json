@@ -1,0 +1,33 @@
+{
+  "name": "scrobbel",
+  "version": "1.0.0",
+  "description": "Classic boardgames online",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danielv123/scrobbel.git"
+  },
+  "keywords": [
+    "boardgame",
+    "online",
+    "multiplayer",
+    "game",
+    "classic"
+  ],
+  "author": "Danielv123",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Danielv123/scrobbel/issues"
+  },
+  "homepage": "https://github.com/Danielv123/scrobbel#readme",
+  "dependencies": {
+    "http": "0.0.0",
+    "typescript": "^2.4.2"
+  }
+}
